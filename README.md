@@ -1,3 +1,6 @@
+# Helix-vim
+A helix fork to bring most keybindings from vim.
+
 <div align="center">
 
 <h1>
